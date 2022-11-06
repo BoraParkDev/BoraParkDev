@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Bora's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoraParkDev&count_private=true&hide=stars,commits,prs,issues,contribs&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Bora's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoraParkDev&count_private=true&hide=stars,commits,prs,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoraParkDev)](https://github.com/anuraghazra/github-readme-stats)
