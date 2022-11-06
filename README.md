@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Bora Park's GitHub](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-[![Bora's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoraParkDev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Bora Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoraParkDev&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoraParkDev)](https://github.com/anuraghazra/github-readme-stats)
