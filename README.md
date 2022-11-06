@@ -57,13 +57,14 @@ Here are some ideas to get you started:
 
 </div>
 
-<h3 align="center">👨‍👨‍👦 Team Collaboration Tool</h3>
+<h3 align="center">👨‍👨‍👦 Others</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"/>
   </div>
-
+<br/>
+<br/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BoraParkDev&count_private=true&show_icons=true&theme=transparent"/></div>
